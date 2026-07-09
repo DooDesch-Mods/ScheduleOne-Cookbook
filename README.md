@@ -11,6 +11,10 @@ A searchable, categorized knowledge base that collects modding know-how which wa
 - **Read it:** https://doodesch-mods.github.io/ScheduleOne-Cookbook
 - **Contributors & credits:** see the [Contributors](https://doodesch-mods.github.io/ScheduleOne-Cookbook/contributors/) page.
 
+## Use it from an AI agent (MCP)
+
+This repo ships a small [MCP](https://modelcontextprotocol.io/) server so an AI coding agent (Claude Code, Claude Desktop, Cursor, ...) can search and read the Cookbook while it helps you build a mod - fully local, no API cost. It exposes `search_cookbook`, `get_page`, `list_pages` and `list_sections` over the curated corpus. See [`mcp/README.md`](./mcp/README.md) for setup.
+
 ## Local development
 
 ```bash
