@@ -1,0 +1,13 @@
+# build output
+dist/
+# generated types
+.astro/
+# dependencies
+node_modules/
+# environment
+.env
+.env.production
+# macOS / editor cruft
+.DS_Store
+# raw Discord source dumps are kept private in the Workspace repo, never here
+_source/

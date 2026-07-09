@@ -1,0 +1,44 @@
+---
+title: Schedule I Modding Cookbook
+description: A community knowledge base for modding Schedule I - snippets, networking, IL2CPP, tooling and best practices, curated from the Unofficial Schedule One Modding Server.
+template: splash
+hero:
+  tagline: The community handbook for building Schedule I mods. Curated from the Unofficial Schedule One Modding Server, with credit to every author.
+  actions:
+    - text: Get started
+      link: getting-started/
+      icon: right-arrow
+      variant: primary
+    - text: Browse code snippets
+      link: snippets/
+      icon: seti:c-sharp
+      variant: minimal
+    - text: View on GitHub
+      link: https://github.com/DooDesch-Mods/ScheduleOne-Cookbook
+      icon: github
+      variant: minimal
+---
+
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+## What you'll find here
+
+Modding know-how that used to live only in Discord threads - collected, deduplicated, categorized, and credited.
+
+<CardGrid>
+  <LinkCard title="Getting Started" href="getting-started/" description="Mono vs IL2CPP, project setup, templates, and your first mod." />
+  <LinkCard title="Best Practices" href="best-practices/" description="The conventions the community learned the hard way." />
+  <LinkCard title="Networking (FishNet)" href="networking/" description="RPCs, code generation, Steam lobby sync, local multiplayer testing." />
+  <LinkCard title="IL2CPP Specifics" href="il2cpp/" description="Interop, patching, delegates, the Unity event system, AssetBundles." />
+  <LinkCard title="Code Snippets" href="snippets/" description="Drop-in C# for items, NPCs, vehicles, UI, world and config." />
+  <LinkCard title="Tooling & Resources" href="tooling/" description="Decompilers, mod managers, branch loaders, external docs." />
+</CardGrid>
+
+## Credit where it's due
+
+Every snippet, recipe and resource here was shared by a member of the **Unofficial Schedule One Modding
+Server** community. Each page links back to the original Discord message and names its author. The full
+roster is on the [Contributors](/contributors/) page.
+
+If you authored something republished here and want the credit changed or the content removed, reach out
+at [support.doodesch.de](https://support.doodesch.de).
