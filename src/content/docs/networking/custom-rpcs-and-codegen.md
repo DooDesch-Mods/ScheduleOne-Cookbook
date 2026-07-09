@@ -5,6 +5,10 @@ sidebar:
   order: 2
 ---
 
+:::note
+The FishNet V3 code-generation NuGet package is also listed in [Frameworks & Libraries](/frameworks/).
+:::
+
 FishNet generates a lot of hidden code for you: the serializers ("readers" and "writers") for RPC
 arguments, and the plumbing that wires up `ServerRpc`/`ObserversRpc`/`TargetRpc` methods. Inside a
 normal Unity project this code generation runs automatically. When you build a **mod** outside the

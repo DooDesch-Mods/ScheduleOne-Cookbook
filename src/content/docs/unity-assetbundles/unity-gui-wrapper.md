@@ -5,6 +5,10 @@ sidebar:
   order: 5
 ---
 
+:::note
+bGUI is also listed in [Frameworks & Libraries](/frameworks/).
+:::
+
 Not every UI needs an AssetBundle. Many mods build their interface as runtime-created **uGUI** in code,
 which avoids the whole bundle pipeline - the trade-off is a lot of repetitive `GameObject` /
 `RectTransform` / `AddComponent` boilerplate. This page covers a library that hides that boilerplate,

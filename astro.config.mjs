@@ -38,6 +38,10 @@ export default defineConfig({
           items: [{ autogenerate: { directory: 'getting-started' } }],
         },
         {
+          label: 'Frameworks & Libraries',
+          items: [{ autogenerate: { directory: 'frameworks' } }],
+        },
+        {
           label: 'Best Practices',
           items: [{ autogenerate: { directory: 'best-practices' } }],
         },

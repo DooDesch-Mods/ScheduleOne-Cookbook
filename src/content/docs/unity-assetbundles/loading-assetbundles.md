@@ -5,6 +5,10 @@ sidebar:
   order: 4
 ---
 
+:::note
+Il2CppAssetBundleManager is also listed in [Frameworks & Libraries](/frameworks/).
+:::
+
 At runtime your mod loads the bundle it shipped, pulls assets out of it, and hands them to the game.
 How you load differs between branches: Mono uses the plain `AssetBundle` API, while IL2CPP needs the
 `Il2CppAssetBundleManager`.

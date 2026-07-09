@@ -5,6 +5,10 @@ sidebar:
   order: 4
 ---
 
+:::note
+Also listed in [Frameworks & Libraries](/frameworks/).
+:::
+
 Working with Steamworks.NET directly (see [Steam lobby data sync](/networking/steam-lobby-data-sync/))
 works, but it is verbose and easy to get wrong. **SteamNetworkLib** by Bars (ifBars) is a streamlined,
 object-oriented library that wraps Steamworks.NET for MelonLoader mods, so you can sync data between

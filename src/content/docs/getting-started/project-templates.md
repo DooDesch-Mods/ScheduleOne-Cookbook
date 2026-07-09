@@ -90,7 +90,7 @@ For AssetBundle-heavy mods, Deeej's template above is the better starting point.
 
 ## ifBars - S1API Template
 
-If you plan to build on top of [S1API](https://ifbars.github.io/S1API/) (the cross-version helper library),
+If you plan to build on top of [S1API](/frameworks/s1api/) (the cross-version helper library),
 there is a dedicated starter template. It leans on S1API so you write less branch-specific code.
 
 - Repo: [ifBars/S1APITemplate](https://github.com/ifBars/S1APITemplate)

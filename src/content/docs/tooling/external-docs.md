@@ -48,7 +48,9 @@ For how FishNet is used in practice (RPCs, code generation, host authority), see
 
 ## S1API
 
-Many mods build on **S1API**, a cross-backend modding API. Its reference docs live at:
+Many mods build on **S1API**, a cross-backend modding API. See the full
+[S1API page](/frameworks/s1api/) for what it gives you and how to depend on it. Its reference docs live
+at:
 
 - **[ifbars.github.io/S1API](https://ifbars.github.io/S1API/)** - API reference and guides.
 - **[S1API releases](https://github.com/ifBars/S1API/releases)**
