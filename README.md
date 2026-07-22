@@ -2,7 +2,7 @@
 
 The community handbook for building [Schedule I](https://store.steampowered.com/app/3164500/Schedule_I/) mods - reusable code snippets, networking recipes, IL2CPP tricks, Unity/AssetBundle workflows, tooling and best practices, curated from the **Unofficial Schedule One Modding Server**.
 
-> 🛟 **Need help or found a bug?** Get support at [support.doodesch.de](https://support.doodesch.de).
+> 🛟 **Need help or found a bug?** Get support at [support.doodesch.de/cookbook](https://support.doodesch.de/cookbook).
 
 ## What this is
 
@@ -27,7 +27,7 @@ Pages live under `src/content/docs/`, organized by the sidebar categories in `as
 
 ## Contributing
 
-Found something to add, fix or correct? Open an issue or PR. If you authored a snippet republished here and want the credit adjusted or the content removed, contact [support.doodesch.de](https://support.doodesch.de) and we will sort it out.
+Found something to add, fix or correct? Open an issue or PR. If you authored a snippet republished here and want the credit adjusted or the content removed, contact [support.doodesch.de/cookbook](https://support.doodesch.de/cookbook) and we will sort it out.
 
 ## Credits & license
 
