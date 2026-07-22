@@ -63,4 +63,4 @@ links to their Discord profile.
 
 Content here is reproduced with attribution, not relicensed. If you authored something republished here
 and would like the credit adjusted or the content removed, contact
-[support.doodesch.de](https://support.doodesch.de) and we will take care of it promptly.
+[support.doodesch.de/cookbook](https://support.doodesch.de/cookbook) and we will take care of it promptly.
